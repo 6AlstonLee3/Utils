@@ -22,70 +22,81 @@
                 android:layout_height="wrap_content"
                 android:text="JSON"
                 android:textAllCaps="false"
-                android:id="@+id/json" />
+                android:id="@+id/json"
+                android:layout_margin="5dp"/>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="XML"
                 android:textAllCaps="false"
-                android:id="@+id/xml" />
+                android:id="@+id/xml"
+                android:layout_margin="5dp"/>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="DES加密"
                 android:textAllCaps="false"
-                android:id="@+id/des" />
+                android:id="@+id/des"
+                android:layout_margin="5dp"/>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="service服务"
                 android:textAllCaps="false"
-                android:id="@+id/service" />
+                android:id="@+id/service"
+                android:layout_margin="5dp"/>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="handle"
                 android:textAllCaps="false"
-                android:id="@+id/handle" />
+                android:id="@+id/handle"
+                android:layout_margin="5dp"/>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="回调"
                 android:textAllCaps="false"
-                android:id="@+id/callback" />
+                android:id="@+id/callback"
+                android:layout_margin="5dp"/>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="toast自定义"
                 android:textAllCaps="false"
-                android:id="@+id/toast" />
+                android:id="@+id/toast"
+                android:layout_margin="5dp"/>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="dialog自定义"
                 android:textAllCaps="false"
-                android:id="@+id/dialog" />
+                android:id="@+id/dialog"
+                android:layout_margin="5dp"/>
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="TextView自定义"
                 android:textAllCaps="false"
-                android:id="@+id/textview" />
+                android:id="@+id/textview"
+                android:layout_margin="5dp"/>
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Button自定义"
                 android:textAllCaps="false"
-                android:id="@+id/button" />
+                android:id="@+id/button"
+                android:layout_margin="5dp"/>
 
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Fragment自定义"
                 android:textAllCaps="false"
-                android:id="@+id/fragment" />
+                android:id="@+id/fragment"
+                android:layout_margin="10dp"/>
         </LinearLayout>
     </ScrollView>
 

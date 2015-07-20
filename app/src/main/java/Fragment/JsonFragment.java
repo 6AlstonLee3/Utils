@@ -16,8 +16,8 @@ import com.example.lixudong.utils.R;
 import java.lang.annotation.Target;
 
 /**
- * A simple {@link Fragment} subclass.
- */
+* A simple {@link Fragment} subclass.
+        */
 public class JsonFragment extends BackHandledFragment {
 
     public JsonFragment() {
